@@ -18,7 +18,6 @@ def simple_selection_sort(arr, order):
 
     return steps
 
-
 print("Simple Selection Sort Algorithm")
 data_type = int(input("Type of Data [1] Numbers [2] Alphabets: "))
 n = int(input("How many items to sort? : "))
